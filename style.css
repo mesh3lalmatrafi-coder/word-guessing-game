@@ -135,6 +135,8 @@ button:hover {
     gap: 15px;
     max-width: 500px;
     margin: 30px auto;
+     position:relative ;
+    z-index: 1;
 }
 
 .categories a {
