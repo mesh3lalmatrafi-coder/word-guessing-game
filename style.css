@@ -36,6 +36,7 @@ button:hover {
     font-size: 80px;
     color: rgb(41, 43, 45);
     opacity: 0.2;
+    pointer-events: none;
 }
 .letter1  { top: 5%; right: 8%; }
 .letter2  { top: 15%; right: 25%; }
